@@ -1,0 +1,10 @@
+{
+  "type": "fishingloothelperapi:fishing",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/fishing"
+    }
+  ],
+  "priority": 1000
+}
